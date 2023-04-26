@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <mpi.h> // Incluir la biblioteca MPI
+#include <mpi.h> 
 
 #define FILAS 100
 #define COLUMS 100
